@@ -35,6 +35,10 @@ From the analysis that was examined, showed 818 people living without high chole
 The relationship between total cholesterol and heart attack is relatively low.
 
 4. How does LDL and HDL infleunce Total cholesterol levels?
+<img width="572" height="390" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/b78c0370-8a42-4946-8bc4-821b70fa77b4" />
+<img width="586" height="384" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/cd5090c7-768e-45aa-b561-ea5fac52967e" />
+
+
 
 from the partten shown ,as the ldl level  is increases, the cholestorl level decreases.
 as hdl increases cholesterol level decreases
