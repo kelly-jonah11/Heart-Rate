@@ -12,8 +12,6 @@ Questions
 1. What is the average distribution for total cholesterol, heart heart and diabetes levels across various age grades?
 
 from the analysis that was carrieed out, the various age grades were categorised into four categorie; Young Aduit, Aduit, Older Aduit, and Elderly.  the average distribution for total cholesterol, heart attack, and diabetes levels across these categories were; 
-<img width="463" height="277" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/0cec10df-b6de-48b5-9be7-d654fa73cd11" />
-
 
 The Elderly had the highest average cholesterol, third highest on average diabetes and highest on average heart attack.
 
@@ -22,6 +20,11 @@ The Older Aduit had the second highest on average cholesterol, lowest on average
 The Aduit had the third highest on average cholestrol, second highest on average diabetes, and third highest on average heart attack.
 
 The Young Aduit had the lowest of average cholesterol, highest on average diabetes, and lowest on average heart attack.
+<img width="460" height="268" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/18c32337-7248-44d9-9ed6-94a6d5daae9b" />
+<img width="464" height="283" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/8b4e95be-aa08-4a8e-8fda-fd0e5533a250" />
+<img width="471" height="285" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/05549d6e-6ef8-425e-8f33-81099b6cd694" />
+
+
 
 2. Determines if high cholesterol levels increase heart attack risk?
 
