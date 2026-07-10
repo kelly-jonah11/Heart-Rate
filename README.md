@@ -23,9 +23,6 @@ The Young Aduit had the lowest of average cholesterol, highest on average diabet
 <img width="460" height="268" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/18c32337-7248-44d9-9ed6-94a6d5daae9b" />
 <img width="464" height="283" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/8b4e95be-aa08-4a8e-8fda-fd0e5533a250" />
 <img width="471" height="285" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/05549d6e-6ef8-425e-8f33-81099b6cd694" />
-
-
-
 2. Determines if high cholesterol levels increase heart attack risk?
 
 From the analysis that was examined, showed 818 people living without high cholesterol and 182 people living with high cholesterol level. It was observed that high cholesterol level cannot necessary increase the risk of heart attack.
@@ -37,9 +34,6 @@ The relationship between total cholesterol and heart attack is relatively low.
 4. How does LDL and HDL infleunce Total cholesterol levels?
 <img width="572" height="390" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/b78c0370-8a42-4946-8bc4-821b70fa77b4" />
 <img width="586" height="384" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/cd5090c7-768e-45aa-b561-ea5fac52967e" />
-
-
-
 from the partten shown ,as the ldl level  is increases, the cholestorl level decreases.
 as hdl increases cholesterol level decreases
 
